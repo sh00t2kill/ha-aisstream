@@ -1,0 +1,11 @@
+{
+  "domain": "aisstream",
+  "name": "AISstream Vessel Tracker",
+  "version": "1.0.0",
+  "documentation": "https://github.com/sh00t2kill/ha-aisstream",
+  "requirements": ["websockets>=10.0"],
+  "config_flow": true,
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/sh00t2kill/ha-aisstream/issues",
+  "codeowners": []
+}
